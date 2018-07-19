@@ -12,10 +12,13 @@
  
  ### How it looks
  <li> Main page
+ 
  ![Illustration for project](https://github.com/EkaterinaKuzkina/Blog-php-css-html-/blob/master/images/2018-07-19_22-58-58.png)
  <li> One article
+ 
  ![Illustration for project](https://github.com/EkaterinaKuzkina/Blog-php-css-html-/blob/master/images/2018-07-19_23-01-15.png)
  <li> Admin page
+ 
  ![Illustration for project](https://github.com/EkaterinaKuzkina/Blog-php-css-html-/blob/master/images/2018-07-19_23-01-31.png)
 
  
