@@ -5,8 +5,11 @@
 ### Рurpose of folders and files in them
 <li>
  The admin folder is used for administration mechanics (delete, edit and add posts). It redirect for special functions account for deleting, editing and addition posts. 
+  
   Models actually contains realization of this functions.
+  
   Views contains files which are responsible for displaying blog, single articles and admin page.
+  
   File "database.php" responds for connection between database on server and other files. 
   File "index.php" responds for connection between all articles models and views.
   File "article.php" responds for connection between all articles and separate articles. 
